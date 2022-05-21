@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChrisRogiers
+- 👀 I’m a Computer Geek, interested in Linux and FOSS.
+- 🌱 As a hobbyist I’m currently learning C++
+- and I signed up with GitHub to get access to
+- example code from a Pragmatic Linux tutorial.
